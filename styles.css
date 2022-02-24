@@ -1,0 +1,13 @@
+#copyright-a {
+  text-decoration: none;
+}
+
+.circle-image {
+  border-radius: 100%;
+}
+
+.navbar-nav {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
