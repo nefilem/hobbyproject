@@ -11,3 +11,7 @@
   left: 50%;
   transform: translatex(-50%);
 }
+
+#brandimage:hover {
+  border-radius:100%;
+}
